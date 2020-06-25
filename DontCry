@@ -1,0 +1,21 @@
+{
+    "results": [
+        {
+            "maintenance": "false",
+            "use_streaming": "false",
+            "img_maintenance": "https://lh3.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN=s180-rw",
+            "title_promote": "WhatsApp Messenger",
+            "url_promote": "com.whatsapp",
+            "video_promote": "https://lh3.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN=s180-rw",
+            "desc_promote": "WhatsApp Messenger is a FREE messaging application available for Android and other smartphones.",
+            "img_promote": "https://lh3.googleusercontent.com/DnDT-L-xR1LYl6bo8U2VFXJPSdQdQjv0dB8RkNVOFrqEJR12bhVacR7vvd9cq0aQxw=s180-rw",
+            "de_play": "https://database.gdriveplayer.us/player.php?imdb=",
+            "my_chosen": "https://database.gdriveplayer.me/player.php?type=",
+            "series_v2": "http://api.gdriveplayer.us/v2/series/",
+            "anime_v1": "http://api.gdriveplayer.us/v1/anime/",
+            "drama_v1": "http://api.gdriveplayer.us/v1/drama/",
+            "email_sender": "your_email@gmail.com",
+            "email_password": "email_password"
+        }
+    ]
+}
